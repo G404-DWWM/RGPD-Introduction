@@ -22,7 +22,7 @@ Plongeons dans ce module RGPD et découvrons comment concilier innovation numér
 
 Dans cette partie, nous nous concentrerons sur les aspects essentiels à respecter dans le développement web pour garantir la conformité au RGPD. 📝
 Cette liste, bien que détaillée, ne couvre qu'une portion des nombreuses facettes du RGPD, mais elle constitue un point de départ crucial pour comprendre les principes fondamentaux de la protection des données. 💡
-Pour en savoir plus veuillez consulter les ressources fourni en bas de page (TODO : transformer en lien interne pour emmener en bas de page)
+Pour en savoir plus veuillez consulter [les ressources fourni en bas de page ](https://github.com/G404-DWWM/RGPD-Introduction?tab=readme-ov-file#-ressources-compl%C3%A9mentaires-)
 
 Sur votre parcours de certification, vous n'avez pas besoin de maîtriser chaque point de cette liste dans les moindres détails. 🎓
 Il est essentiel de reconnaître que tous les aspects abordés, en particulier dans le domaine de la sécurité, ne seront pas réalisables par tous les apprenants, car cela exige souvent une expertise avancée.
