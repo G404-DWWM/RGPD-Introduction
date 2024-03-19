@@ -119,3 +119,8 @@ De plus, je vous encourage à participer aux ateliers organisés par la CNIL pou
 - [Ateliers RGPD de la CNIL](https://atelier-rgpd.cnil.fr/login/)
 
 N'hésitez pas à explorer ces ressources pour enrichir votre compréhension du RGPD et de son application dans le développement web et web mobile.
+
+## 🏋️ Exercice :
+
+Dans la suite du module, vous allez devoir réaliser un site pour un Festival de musique à l'aide de Wordpress tout en respectant les principes de la RGPD listé précédemment.
+Ça se passe [ici](https://github.com/G404-DWWM/RGPD-Festival) !
